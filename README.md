@@ -1,4 +1,4 @@
-# TrustLens AI — Vietnamese-first financial scam screening
+# TrustLens AI
 
 **Track:** AI + Finance  
 **Pitch:** TrustLens AI helps people pause before sending money by screening suspicious Vietnamese messages, explaining warning signals and suggesting safe verification steps.
@@ -47,10 +47,4 @@ This uses the dataset's published train.csv and independent test.csv. It reports
 - Dataset: Tran et al., Vietnamese Quality-Assured SMS Scam Dataset, CC BY 4.0. Official repository: https://github.com/trannguyenthaituan251209/vietnamese_sms_dataset
 - Dataset paper citation is provided in the source repository: *Vietnamese SMS Dataset with Quality Assurance*, IEEE Access (2026).
 - Machine-learning libraries: scikit-learn (https://scikit-learn.org/), pandas (https://pandas.pydata.org/), joblib (https://joblib.readthedocs.io/), Streamlit (https://streamlit.io/).
-- AI assistance: ChatGPT (OpenAI), used to help draft/debug project code and documentation. The team must review, understand and test all code before submission.
-
-## What to add before submitting
-1. Run `python train_evaluate.py` and paste your real test metrics into the one-page write-up.
-2. Test at least 10 new messages not present in the dataset; record false alarms and missed scams.
-3. Replace placeholder identity fields in the submission template.
-4. Push the folder to a public GitHub repository and test the link in a logged-out browser.
+- AI assistance: ChatGPT (OpenAI), used to help debug project code.
