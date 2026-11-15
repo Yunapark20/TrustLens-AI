@@ -1,0 +1,17 @@
+# Submission form — TrustLens AI
+
+Project Title: TrustLens AI — A Vietnamese-first financial scam screening assistant
+Your Full Name: TRAN HOAI THUONG
+Your School: BAC GIANG SPECIALISED HIGH SCHOOL
+Your Email: hoaithuongtran612@gmail.com
+Building As: Individual 
+Code Link: [PUBLIC GITHUB REPOSITORY OR COLAB LINK]
+Write-up Link: [PUBLIC README / GOOGLE DOC LINK]
+Write-up File: TrustLensAI_One_Page_Writeup.docx
+Track: AI + Finance
+One-Sentence Pitch: TrustLens AI helps people pause before sending money by screening suspicious Vietnamese messages, explaining scam signals and suggesting safe verification steps.
+
+Credits:
+- Dataset: Vietnamese Quality-Assured SMS Scam Dataset, CC BY 4.0 — https://github.com/trannguyenthaituan251209/vietnamese_sms_dataset
+- Libraries: scikit-learn, pandas, Streamlit, joblib
+- AI assistance: ChatGPT (OpenAI), used for coding assistance.
